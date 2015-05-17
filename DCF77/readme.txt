@@ -4,7 +4,7 @@
 =========
 
 
-Author        	:   J.M. Lietaer, Belgium, Europe - jmlietaer (at) gmail (dot) com 
+Author        	:   J.M. Lietaer, Belgium, Europe - dcf77 (at) lietaer (dot) be 
 Date written  	:   February 19, 2011 
 Library       	:   DCF77
                     Read data from a DCF77 module and display date/time 
