@@ -1,5 +1,5 @@
 /*
- Author          :	J.M. Lietaer, Belgium, Europe - jmlietaer (at) gmail (dot) com 
+ Author          :	J.M. Lietaer, Belgium, Europe - dcf77 (at) lietaer (dot) be 
  User level      :      Total Arduino Noob
  Date written    :	March 06, 2010 
  Program	 :      Example program for DCF77 Library
