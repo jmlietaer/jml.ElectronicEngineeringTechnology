@@ -1,6 +1,6 @@
 /*
 Source code   	:   Dcf77.cpp
-Author        		:   J.M. Lietaer, Belgium, Europe - jmlietaer (at) gmail (dot) com 
+Author        		:   J.M. Lietaer, Belgium, Europe - dcf77 (at) lietaer (dot) be 
 Date written  	:   March 06, 2010 
 Library       		:   DCF77
                   Read data from a DCF77 module and display date/time 
